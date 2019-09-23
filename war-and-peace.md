@@ -62,3 +62,9 @@ Conflict Catalog:(Violent Conflicts 1400 A.D. to the Present in Different Region
 * Homepage: http://www.cgeh.nl/data#conflict
 
 TODO: data package!
+
+## JunIBIS
+The Campaign of Belgium in 1815 marked the end of the Napoleonic wars. This dataset lists the armies and units in presence, their commanders and their hourly positions during the six days of campaign between June 15 and June 20. Maps and further details are available on [JunIBIS.be](http://www.junibis.be).
+
+### Data & License
+JunIBIS data is available on [DataHub.io](https://datahub.io/andrejjh/junibis_data) under CC-BY-4.0 license
